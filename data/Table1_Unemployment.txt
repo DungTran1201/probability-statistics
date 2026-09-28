@@ -1,0 +1,17 @@
+STT Bang TyLeThatNghiep
+1 Schleswig-Holstein 8.7
+2 Hamburg 9.8
+3 Mecklenburg-Vorpommern 17.3
+4 Niedersachsen 9.8
+5 Bremen 13.9
+6 Nordrhein-Westfalen 9.8
+7 Hessen 7.9
+8 Rheinland-Pfalz 7.7
+9 Saarland 10.4
+10 Baden-Wurttemberg 6.2
+11 Bayern 5.8
+12 Berlin 15.8
+13 Brandenburg 17.1
+14 Sachsen-Anhalt 19.9
+15 Thuringen 15.1
+16 Sachsen 16.8
